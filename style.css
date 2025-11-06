@@ -1,0 +1,33 @@
+
+.jk{
+    font-size: 28px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    align-content: center;
+}
+#box1{
+    color: black;
+    padding: 10px;
+    border: 5px dashed red;
+    margin: 10px;
+}
+#box2{
+    color: blue;
+    padding: 10px;
+    border: 5px dotted black;
+    margin: 10px 10px 10px 250px;
+}
+#box3{
+    color: yellowgreen;
+    padding: 10px;
+    border: 5px dashed brown;
+    margin: 10px 10px 10px 500px;
+}
+#box4{
+    color: black;
+    padding: 10px;
+    border: 5px dashed red;
+    margin: 10px 10px 10px 750px;
+
+}
