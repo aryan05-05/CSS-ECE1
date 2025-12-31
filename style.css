@@ -9,7 +9,7 @@
 #box1{
     color: black;
     padding: 10px;
-    border: 5px dashed red;
+    border: 5px dashed #00ffff;
     margin: 10px;
 }
 #box2{
