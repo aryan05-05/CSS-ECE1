@@ -27,10 +27,10 @@
     border: 1px solid black;
     text-align: center;
     align-content: center;
-    color: white;
+    color: aqua;
 }
 
-/* .item1{
+.item1{
     grid-area: header;
 }
 
@@ -44,4 +44,4 @@
 
 .item4{
     grid-area: footer;
-} */
+}
